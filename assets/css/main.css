@@ -3569,7 +3569,7 @@ h1.caseTitle{
 }
 
 #demo{
-  height:690px;
+  height:550px;
   text-align:center;
   vertical-align: center;
   background-color:#595959;
@@ -3581,8 +3581,8 @@ h1.caseTitle{
 }
 
 #demo img {
-  width:70%;
-  margin-top:48px;
+  width:1100px;
+ padding-top:30px;
 }
 
 
