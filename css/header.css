@@ -11,5 +11,22 @@
 }
 
 .text-center {
+}
+
+.navbar-black{
+
+
+}
+
+
+#carousel-color{
   background-color:black;
+}
+
+.briefing {
+  text-align: center;
+}
+
+.explainImage {
+  width:50%;
 }

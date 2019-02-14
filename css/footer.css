@@ -1,0 +1,21 @@
+footer > div{
+  padding-top:2em;
+}
+
+ul.footer-list{
+  
+  list-style-type:none;
+}
+
+ul.footer-list > li{
+  
+  color:white;
+}
+
+ul.footer-list > li.list-title{
+  font-weight: bold;
+}
+
+p.crstyle{
+  color:white;
+}
