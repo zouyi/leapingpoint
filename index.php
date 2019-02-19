@@ -5,7 +5,6 @@
     include "head.php";
   ?>
 
-  
   <?php
     include "header.php";
   ?>
@@ -58,8 +57,7 @@
   <p class="mb-0">我们擅长通过绩效提升及扭亏为盈而增加和创造企业价值，帮助企业制定成长战略，并购整合，供应链卓越化，并最终实现企业跨越式的发展。</p>
   <footer class="blockquote-footer">麻树群 先生  <cite title="Source Title"></cite>执行合伙人</footer>
 </blockquote>
-    
-    
+
 </div>
   <div class="col-sm-2"></div>
               
@@ -96,7 +94,7 @@
           </div>
     <div class="col-sm-6 col-md-6"><h2 class="serviceTitle">并购整合</h2><p class="desc">一方面，随着中国的行业和企业整合以及日趋成熟, 国内并购活动将继续以稳定的速度增长。同时外国公司将继续加大对中国市场的投资, 以弥补其它市场的亏损。<br/><br/>另一方面，在中国IPO一直是千军万马过独木桥的形式下，私募股权成为中国经济私人企业的资本提供者和通过并购退出的主要推动者。
 </p></div></div>
-          
+          <br>
                  <div class="row">
                
                  <div class="col-sm-6 col-md-6"><h2 class="serviceTitle">融资服务</h2><p class="desc">对于企业而言，资金如同企业的血液，对企业经营的重要性是不言而喻的。而融资难、担保难，一直是制约中型市场企业快速发展的瓶颈。<br/><br/>中型 市场企业的财务人员，多忙于基础的财务记账职能，对企业可能获得的多方面的融资渠道不清楚，也没有足够的业务能力去运作。<br/><br/>逸点咨询针对中型市场企业的融资服务是企业融资过程中得“润滑剂”或“加速器”，可以大大的提高企业融资效率和成功率。</p>

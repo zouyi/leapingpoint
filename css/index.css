@@ -19,6 +19,13 @@
   margin: 0;
   max-width: 80%;
 }
+
+.quote-card p.small-quote {
+  font-size: 10px;
+  line-height: 1.5;
+  margin: 0;
+  max-width: 80%;
+}
 .quote-card cite {
   font-size: 16px;
   margin-top: 10px;
@@ -53,3 +60,23 @@
     right: -25px;
   }
 }
+
+.sample-link{
+  
+  font-size:26pt;
+}
+
+.text-right{
+  text-align:right;
+}
+
+.desc-box{
+  
+  height:338px;
+}
+
+.img-align{
+  padding: 70px 0;
+
+}
+

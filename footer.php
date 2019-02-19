@@ -32,6 +32,9 @@
         <div class="col-md-3"></div>     
       </div>
       
+  <br>
+  <br>
+  <br>
 <div class="row">
   <div class="mx-auto">
   <p class="crstyle">&copy; Untitled. All rights reserved.</p>
