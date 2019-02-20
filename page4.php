@@ -42,7 +42,7 @@
                     <br>
                     <br>
 						<div class="content">
-							<h2>国际化战略</h2>
+							<h2>财务顾问</h2>
 							<div>我们可以在公司发展的各个阶段为客户提供融资服务。充分利用我们广泛的企业和投资者网 络和金融市场资源，我们能从最佳的融资渠道为客户进行债务和股权融资，包括引人金融机构的财务投资、 战略投资者和私募基金在内各类资本的私募融资方式和首次股票公开发行（IPO）等不同方式的融资。我们从独立财务顾问的角度出发，能够真正为客户着想， 选用最适合客户的融资方式和渠道。通常有以下的融资渠道：
                               <a data-toggle="collapse" href="#example1" role="button" aria-expanded="false" aria-controls="example1">阅读更多</a><div class="collapse multi-collapse" id="example1">
       <div class="card card-body">私募融资：<br><br>
@@ -93,11 +93,10 @@ IPO：<br><br>
                    
                 <div class="col-md-3"><nav class="nav flex-column">
                     <a class="nav-link"><h4>导航</h4></a>
-<a class="nav-link active" href="#" target="row1">供应链战略及金融</a>
-  <a class="nav-link" href="#" target="row1">计划与库存管理</a>
-  <a class="nav-link" href="#" target="row2">物流及网络规划</a>
-  <a class="nav-link" href="#" target="row2">供应商集成与提升</a>
-  <a class="nav-link" href="#" target="row3">制造技术与卓越</a>
+<a class="nav-link active" href="#" target="row1">财务顾问</a>
+  <a class="nav-link" href="#" target="row1">估值服务</a>
+  <a class="nav-link" href="#" target="row2">公司重组</a>
+
 </nav></div>
               </div>
               

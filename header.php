@@ -25,7 +25,7 @@
       <li class="nav-item"><a class="nav-link" href="page3.php">并购整合</a></li>
       <li class="nav-item"><a class="nav-link" href="page4.php">融资服务</a></li>
       <li class="nav-item"><a class="nav-link" href="cases.php">成功案例</a></li>
-      <li class="nav-item"><a class="nav-link" href="about.php">联系我们</a></li>
+      <li class="nav-item"><a class="nav-link" href="contact.php">联系我们</a></li>
     </ul>
  </div>
   

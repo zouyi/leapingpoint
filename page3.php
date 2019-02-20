@@ -74,11 +74,11 @@
               </div>
                    <div class="col-md-3"><nav class="nav flex-column">
                     <a class="nav-link"><h4>导航</h4></a>
-<a class="nav-link active" href="#" target="row1">供应链战略及金融</a>
-  <a class="nav-link" href="#" target="row1">计划与库存管理</a>
-  <a class="nav-link" href="#" target="row2">物流及网络规划</a>
-  <a class="nav-link" href="#" target="row2">供应商集成与提升</a>
-  <a class="nav-link" href="#" target="row3">制造技术与卓越</a>
+<a class="nav-link active" href="#" target="row1">国际化战略</a>
+  <a class="nav-link" href="#" target="row1">尽职调查</a>
+  <a class="nav-link" href="#" target="row2">扭亏与重组
+</a>
+  <a class="nav-link" href="#" target="row3">过渡期管理</a>
 </nav></div>
               </div>
               
@@ -126,7 +126,7 @@
                         <br>
                         <br>
 						<div class="content">
-							<h2>过渡期管理<a class="sample-link">成功案例</a></h2>
+							<h2>过渡期管理</h2>
               <div>中国企业在并购整合中往往缺乏即懂被并购的企业所在行业，又有并购整合经验的高级管理人员。<br><br>
 
 

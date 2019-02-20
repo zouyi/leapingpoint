@@ -12,13 +12,13 @@
       
       <div class="container">
       
-      <div id="#demo" class="carousel slide" data-ride="carousel">
+      <div id="mycarousel" class="carousel slide" data-ride="carousel">
 
   <!-- Indicators -->
   <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#mycarousel" data-slide-to="1"></li>
+    <li data-target="#mycarousel" data-slide-to="2"></li>
   </ul>
 
   <!-- The slideshow -->
@@ -35,11 +35,13 @@
   </div>
 
   <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
+<a class="carousel-control-prev" href="#mycarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
+  <a class="carousel-control-next" href="#mycarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
   </a>
 
 </div>
@@ -70,7 +72,7 @@
             <img src="images/promote/pexels-photo-955447.jpeg" class="img-fluid" alt="Responsive image">
           </a>
         </div>
-    <div class="col-sm-6 col-md-6"><h2 class="serviceTitle">绩效突破</h2><p class="desc">很多人都以为，创业的初期对于公司的存活来说，是最危险的时期。然而，事实是，公司的成长阶段可能更显得危机重重，因为它往往是在创业者毫无准备的情况下突显出来的。当企业渡过了生存期，企业家信心容易膨胀，在没有清晰的市场分析和能力准备的前提下，盲目地发展，为了发展而发展，从而破坏企业的资源平衡。<br/><br/>我们采用清晰和量化的战略制定方法，在充分地了解市场竞争的情况下，制定正确的成长策略，帮助企业实现业务改进。</p>
+    <div class="col-sm-6 col-md-6"><h2 class="text-center">绩效突破</h2><p class="desc">很多人都以为，创业的初期对于公司的存活来说，是最危险的时期。然而，事实是，公司的成长阶段可能更显得危机重重，因为它往往是在创业者毫无准备的情况下突显出来的。当企业渡过了生存期，企业家信心容易膨胀，在没有清晰的市场分析和能力准备的前提下，盲目地发展，为了发展而发展，从而破坏企业的资源平衡。<br/><br/>我们采用清晰和量化的战略制定方法，在充分地了解市场竞争的情况下，制定正确的成长策略，帮助企业实现业务改进。</p>
 </div></div>
           
           <br/>
@@ -78,7 +80,7 @@
              
               
               <div class="row">
-                 <div class="col-sm-6 col-md-6"><h2 class="serviceTitle">供应链卓越化</h2><p class="desc">随着中国经济进入L型阶段，许多制造企业都在面临供应链管理的巨大挑战，他们为了在这个加速变化的市场中满足更加客户化的需求而极力地提升自己的供应链管理水平。<br/><br/>灵活性（Agility），适应性（Adaptability）和协同性（Alignment）这“三个A”是企业在行业保持领先所必备的供应链特征。<br/><br/>逸点咨询帮助我们的客户在供应链战略规划，管理实践，和系统开发等方面实现卓越。</p>
+                 <div class="col-sm-6 col-md-6"><h2 class="text-center">供应链卓越化</h2><p class="desc">随着中国经济进入L型阶段，许多制造企业都在面临供应链管理的巨大挑战，他们为了在这个加速变化的市场中满足更加客户化的需求而极力地提升自己的供应链管理水平。<br/><br/>灵活性（Agility），适应性（Adaptability）和协同性（Alignment）这“三个A”是企业在行业保持领先所必备的供应链特征。<br/><br/>逸点咨询帮助我们的客户在供应链战略规划，管理实践，和系统开发等方面实现卓越。</p>
             </div>
            <div class="col-sm-6 col-md-6">
              <a href="page2.php">
@@ -92,12 +94,12 @@
            <div class="imageHolder col-sm-6 col-md-6">
           <img class="img-fluid" src="images/promote/combine.jpeg">
           </div>
-    <div class="col-sm-6 col-md-6"><h2 class="serviceTitle">并购整合</h2><p class="desc">一方面，随着中国的行业和企业整合以及日趋成熟, 国内并购活动将继续以稳定的速度增长。同时外国公司将继续加大对中国市场的投资, 以弥补其它市场的亏损。<br/><br/>另一方面，在中国IPO一直是千军万马过独木桥的形式下，私募股权成为中国经济私人企业的资本提供者和通过并购退出的主要推动者。
+    <div class="col-sm-6 col-md-6"><h2 class="text-center">并购整合</h2><p class="desc">一方面，随着中国的行业和企业整合以及日趋成熟, 国内并购活动将继续以稳定的速度增长。同时外国公司将继续加大对中国市场的投资, 以弥补其它市场的亏损。<br/><br/>另一方面，在中国IPO一直是千军万马过独木桥的形式下，私募股权成为中国经济私人企业的资本提供者和通过并购退出的主要推动者。
 </p></div></div>
           <br>
                  <div class="row">
                
-                 <div class="col-sm-6 col-md-6"><h2 class="serviceTitle">融资服务</h2><p class="desc">对于企业而言，资金如同企业的血液，对企业经营的重要性是不言而喻的。而融资难、担保难，一直是制约中型市场企业快速发展的瓶颈。<br/><br/>中型 市场企业的财务人员，多忙于基础的财务记账职能，对企业可能获得的多方面的融资渠道不清楚，也没有足够的业务能力去运作。<br/><br/>逸点咨询针对中型市场企业的融资服务是企业融资过程中得“润滑剂”或“加速器”，可以大大的提高企业融资效率和成功率。</p>
+                 <div class="col-sm-6 col-md-6"><h2 class="text-center">融资服务</h2><p class="desc">对于企业而言，资金如同企业的血液，对企业经营的重要性是不言而喻的。而融资难、担保难，一直是制约中型市场企业快速发展的瓶颈。<br/><br/>中型 市场企业的财务人员，多忙于基础的财务记账职能，对企业可能获得的多方面的融资渠道不清楚，也没有足够的业务能力去运作。<br/><br/>逸点咨询针对中型市场企业的融资服务是企业融资过程中得“润滑剂”或“加速器”，可以大大的提高企业融资效率和成功率。</p>
 </div>
            <div class="imageHolder col-sm-6 col-md-6">
           <img class="img-fluid" src="images/promote/river.jpeg">
